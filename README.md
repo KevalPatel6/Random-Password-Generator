@@ -6,15 +6,20 @@ This repository is for an application that generates a STRONG password of random
 
 ## Usage 
 
-In order to use this application, first, you will need to go to the application url which can be found here >http//google.com// placeholder>>. Then you will need to click the "Generate Password" button or subsequently tab over to the button and press "Enter" on your keyboard. 
+In order to use this application, first, you will need to go to the application landing page which can be found here https://kevalpatel6.github.io/Random-Password-Generator/ placeholder>>. Then you will need to click the "Generate Password" button or subsequently tab over to the button and press "Enter" on your keyboard. 
 
 This will then prompt you to enter a password length between "8" and "128" characters and press okay. Next you will be prompted a few more times whether you want your password to contain lowercase letters, uppercase letters, numbers, and/or special characters. Below you can see a screenshot of the first prompt.
 
 <img src = "./assets/GeneratePass-Prompt.PNG" alt = "screenshot of application showing the first prompt after hitting generate password button">
 
+
+
 After answer all the prompts are answered then your password customized random password will be generated for you on the screen. 
 
+
+
 <img src = "./assets/GeneratedPass.PNG" alt = "screenshot of application with a generated password">
+
 
 Keep in mind that  if you do not select any character types (i.e. lowercase, uppercase, etc.) to be included in your generated password then you will be alerted that you must select at least one character type and then you will need to click on the "Generate Password" button again to restart the application. 
 
